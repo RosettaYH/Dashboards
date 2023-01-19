@@ -1,2 +1,2 @@
 # Dashboards
-Projects build by dash
+End-to-end web applications, written in Dash and Flask. 
